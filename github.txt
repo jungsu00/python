@@ -1,0 +1,15 @@
+git config --global user.name 아이디
+git config --global user.email hakimz@naver.com
+git config --global --list
+
+주소
+https://github.com/jungsu00/python.git
+
+git remote -v
+git remote remove  주소          저장소 삭제
+git remote add origin  주소      저장소 추가
+
+git status
+
+git add 파일이름.형식
+git. commit
